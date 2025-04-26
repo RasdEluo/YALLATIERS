@@ -1,0 +1,48 @@
+I want to build a responsive, modern, and visually appealing website called Yalla Tiers, hosted on GitHub Pages. The site should feature a centered Yalla Tiers logo on the home screen and begin with a fading welcome page that briefly displays "Welcome to Yalla Tiers" before revealing the main content. The design should follow a cool aesthetic with a yellow and black color theme, smooth transitions, and mobile responsiveness.
+
+The site should include a Login option for users with a simple authentication system using localStorage or a small backend/database (e.g., Firebase or JSON), allowing basic user login functionality. Once logged in, users can access a search bar where they can search for car, truck, or motorcycle parts or products.
+
+The site must include dropdown menus for selecting:
+
+Vehicle Type (car, truck, motorcycle)
+
+Year (from 1900 to the current year)
+
+Make (fetched from the VPIC API based on selected year/type)
+
+Model (fetched from VPIC API based on selected make/year)
+
+Mileage/Hours (as a text input)
+
+Once a user enters this information and performs a search, the site should use Free AI APIs (specifically OpenRouter) to fetch intelligent product results based on vehicle data and the searched part or product name. The API key for OpenRouter is:
+
+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
+
+The AI-generated result should return:
+
+A Product Description explaining the part/product
+
+An Estimated Price
+
+A Condition Rating (visual bar indicator with green to red scale)
+
+Purchase Links from major sites like Amazon, eBay, and OpenSooq
+
+There should be a stylish scroll-to-top button that appears after scrolling down, labeled "Yalla Tiers" in black and white, located in the lower right corner of the screen. Clicking it scrolls the user smoothly back to the top.
+
+The UI should also include a modal popup for vehicle analysis when clicking the “Analysis” link in the navbar. Optionally, a looping background video or animated background should be included behind the main content for added visual interest.
+
+The website should use:
+
+HTML, CSS, and JavaScript
+
+VPIC API for vehicle data
+
+OpenRouter AI API for intelligent responses
+
+GitHub Pages for hosting
+
+Optional Firebase or localStorage for user login
+
+All components should be responsive, animated where appropriate, and consistent with the bold, stylish yellow-and-black Yalla Tiers branding.
+
