@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 5fde32ed68a79ada68c275b8b885b220b9f16815 tchaa03 <32365376-tchaa03@users.noreply.replit.com> 1745616779 +0000	commit (initial): Initial commit
+5fde32ed68a79ada68c275b8b885b220b9f16815 77ba24d0226395b5f94f2f0b18266d4b35ed6d1b tchaa03 <32365376-tchaa03@users.noreply.replit.com> 1745616779 +0000	commit: Initial checkpoint
+77ba24d0226395b5f94f2f0b18266d4b35ed6d1b c66e12cba4c9ba15f7e1e2cd0f9ea813c72d42e0 tchaa03 <32365376-tchaa03@users.noreply.replit.com> 1745617394 +0000	commit: Set up essential project files and create core website components
+c66e12cba4c9ba15f7e1e2cd0f9ea813c72d42e0 21b4691b1b79d881adaf0a104c2b0d13fa972eda tchaa03 <32365376-tchaa03@users.noreply.replit.com> 1745617598 +0000	commit: Checkpoint
+21b4691b1b79d881adaf0a104c2b0d13fa972eda a16e2f90009ed06fd5822eaa9c2fe1dcd59ef1eb tchaa03 <32365376-tchaa03@users.noreply.replit.com> 1745617783 +0000	commit: Enable user authentication and part favoriting for a personalized experience
+a16e2f90009ed06fd5822eaa9c2fe1dcd59ef1eb 2e881e43253d1adedb256ae539d054d0de852387 tchaa03 <32365376-tchaa03@users.noreply.replit.com> 1745617962 +0000	commit: Let users save and view their favorite automotive parts on the website
+2e881e43253d1adedb256ae539d054d0de852387 68b2ac4a14742c6c6bd85b7d8d809ebcd6adf9dc tchaa03 <32365376-tchaa03@users.noreply.replit.com> 1745618055 +0000	commit: Improve user experience by adding profile options and loading user data
+68b2ac4a14742c6c6bd85b7d8d809ebcd6adf9dc 1cfd430bef5f6c929f0bb3f5a43f0e5d6912f724 tchaa03 <32365376-tchaa03@users.noreply.replit.com> 1745618073 +0000	commit: Establish a reliable storage system to organize website data efficiently
